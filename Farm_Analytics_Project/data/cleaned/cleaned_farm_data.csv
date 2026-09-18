@@ -1,0 +1,346 @@
+date,vendor_id,activity_id,crop_id,crop_name,water_used_l,nutrient_used_ml,energy_used_kwh,temperature_c,humidity_pct,ph,ec_ms_cm,yield_kg,status,location,labor_hours,record_id,farm_name,vendor_name,vendor_category,activity,month,year,month_name,yield_per_100l_water,yield_per_kwh
+2026-06-01,V002,AC01,C001,Lettuce,420.0,180.0,12.5,24.2,68.0,6.1,1.2,0.0,Done,Pune,,FA001,Farm A,Aqua Solutions,Irrigation,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-02,V003,AC02,C003,Cucumber,480.0,200.0,13.2,25.0,65.0,6.0,1.5,0.0,Done,Pune,,FA002,Farm A,AgroCare,Pesticide,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-03,V005,AC03,C001,Lettuce,460.0,190.0,12.8,25.3,66.0,6.2,1.4,0.0,Done,Pune,,FA003,Farm A,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-04,V002,AC03,C003,Cucumber,350.0,150.0,10.8,23.8,70.0,6.0,1.3,0.0,Done,Pune,,FA004,Farm A,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-05,V004,AC01,C004,Spinach,310.0,120.0,9.5,24.5,67.0,6.1,1.2,0.0,Done,Pune,,FA005,Farm A,FarmTech Supplies,Equipment,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-06,V005,AC03,C001,Lettuce,440.0,180.0,11.8,24.8,66.0,6.0,1.5,0.0,Done,Pune,,FA006,Farm A,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-07,V005,AC04,C001,Lettuce,470.0,195.0,13.0,25.1,65.0,6.2,1.45,0.0,Pending,Pune,,FA007,Farm A,FreshCrop Agro,Seeds,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-08,V005,AC01,C001,Lettuce,360.0,130.0,10.1,24.1,71.0,6.0,1.3,0.0,Done,Pune,,FA008,Farm A,FreshCrop Agro,Seeds,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-09,V004,AC02,C004,Spinach,410.0,170.0,11.6,24.0,69.0,6.1,1.25,0.0,In Progress,Pune,,FA009,Farm A,FarmTech Supplies,Equipment,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-10,V003,AC05,C004,Spinach,520.0,0.0,14.5,24.3,68.0,6.1,1.5,95.0,Done,Pune,,FA010,Farm A,AgroCare,Pesticide,Plant Health Scouting,2026-06,2026,June,18.269230769230766,6.551724137931035
+2026-06-11,V001,AC03,C001,Lettuce,460.0,190.0,12.8,25.3,66.0,6.2,1.45,0.0,Done,Pune,,FA011,Farm A,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-12,V005,AC01,C003,Cucumber,370.0,140.0,10.5,23.9,72.0,6.0,1.35,0.0,Pending,Pune,,FA012,Farm A,FreshCrop Agro,Seeds,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-13,V001,AC03,C001,Lettuce,380.0,140.0,10.5,24.6,69.0,6.2,1.25,0.0,Done,Pune,,FA013,Farm A,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-14,V003,AC05,C002,Tomato,470.0,210.0,13.0,25.2,65.0,6.1,1.5,0.0,Done,Pune,,FA014,Farm A,AgroCare,Pesticide,Plant Health Scouting,2026-06,2026,June,0.0,0.0
+2026-06-15,V003,AC05,C003,Cucumber,540.0,0.0,14.8,25.0,66.0,6.2,1.45,105.0,Done,Pune,,FA015,Farm A,AgroCare,Pesticide,Plant Health Scouting,2026-06,2026,June,19.444444444444446,7.094594594594594
+2026-06-16,V004,AC04,C002,Tomato,350.0,150.0,10.8,24.0,70.0,6.0,1.3,0.0,Done,Pune,,FA016,Farm A,FarmTech Supplies,Equipment,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-17,V003,AC03,C002,Tomato,420.0,180.0,12.5,24.2,68.0,6.1,1.2,0.0,Done,Pune,,FA017,Farm A,AgroCare,Pesticide,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-18,V003,AC01,C001,Lettuce,450.0,185.0,12.0,25.0,65.0,6.0,1.5,0.0,Done,Pune,,FA018,Farm A,AgroCare,Pesticide,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-19,V003,AC05,C002,Tomato,480.0,200.0,13.2,25.4,66.0,6.2,1.45,0.0,Done,Pune,,FA019,Farm A,AgroCare,Pesticide,Plant Health Scouting,2026-06,2026,June,0.0,0.0
+2026-06-20,V002,AC04,C003,Cucumber,430.0,0.0,11.8,23.9,71.0,6.0,1.35,75.0,Done,Pune,,FA020,Farm A,Aqua Solutions,Irrigation,Climate Monitoring,2026-06,2026,June,17.441860465116278,6.3559322033898304
+2026-06-21,V004,AC04,C001,Lettuce,440.0,185.0,12.7,24.3,69.0,6.1,1.25,0.0,Done,Pune,,FA021,Farm A,FarmTech Supplies,Equipment,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-22,V004,AC01,C001,Lettuce,490.0,205.0,13.4,25.1,65.0,6.0,1.5,0.0,Pending,Pune,,FA022,Farm A,FarmTech Supplies,Equipment,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-23,V005,AC02,C001,Lettuce,300.0,110.0,9.2,24.7,68.0,6.2,1.4,0.0,Done,Pune,,FA023,Farm A,FreshCrop Agro,Seeds,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-24,V002,AC02,C002,Tomato,360.0,130.0,10.1,24.1,71.0,6.0,1.3,0.0,Done,Pune,,FA024,Farm A,Aqua Solutions,Irrigation,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-25,V004,AC03,C001,Lettuce,520.0,0.0,14.5,24.3,69.0,6.1,1.3,95.0,Done,Pune,,FA025,Farm A,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-06,2026,June,18.269230769230766,6.551724137931035
+2026-06-26,V001,AC05,C001,Lettuce,450.0,190.0,12.2,25.0,66.0,6.1,1.5,0.0,Done,Pune,,FA026,Farm A,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-06,2026,June,0.0,0.0
+2026-06-27,V005,AC03,C003,Cucumber,470.0,195.0,13.0,25.2,65.0,6.2,1.45,0.0,In Progress,Pune,,FA027,Farm A,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-28,V001,AC04,C003,Cucumber,380.0,140.0,10.4,24.0,72.0,6.0,1.35,0.0,Done,Pune,,FA028,Farm A,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-29,V004,AC05,C001,Lettuce,400.0,160.0,11.0,24.5,68.0,6.1,1.25,0.0,Done,Pune,,FA029,Farm A,FarmTech Supplies,Equipment,Plant Health Scouting,2026-06,2026,June,0.0,0.0
+2026-06-30,V002,AC05,C004,Spinach,550.0,0.0,15.0,25.1,65.0,6.1,1.5,105.0,Done,Pune,,FA030,Farm A,Aqua Solutions,Irrigation,Plant Health Scouting,2026-06,2026,June,19.090909090909093,7.0
+2026-07-01,V001,AC01,C003,Cucumber,490.0,200.0,13.4,25.3,66.0,6.2,1.45,0.0,Done,Pune,,FA031,Farm A,GreenGrow Agro,Fertilizer,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-02,V004,AC03,C003,Cucumber,360.0,130.0,10.0,23.8,71.0,6.0,1.35,0.0,Pending,Pune,,FA032,Farm A,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-03,V001,AC04,C001,Lettuce,430.0,180.0,12.6,24.4,69.0,6.1,1.25,0.0,Done,Pune,,FA033,Farm A,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-04,V003,AC04,C004,Spinach,480.0,200.0,13.2,25.2,65.0,6.1,1.5,0.0,Done,Pune,,FA034,Farm A,AgroCare,Pesticide,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-05,V004,AC02,C004,Spinach,560.0,0.0,15.5,25.4,66.0,6.2,1.45,110.0,Done,Pune,,FA035,Farm A,FarmTech Supplies,Equipment,Fertigation,2026-07,2026,July,19.642857142857142,7.096774193548387
+2026-07-06,V001,AC01,C001,Lettuce,390.0,160.0,11.0,23.9,72.0,6.0,1.35,0.0,Done,Pune,,FA036,Farm A,GreenGrow Agro,Fertilizer,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-07,V002,AC01,C003,Cucumber,450.0,190.0,12.9,24.5,68.0,6.1,1.25,0.0,Done,Pune,,FA037,Farm A,Aqua Solutions,Irrigation,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-08,V002,AC04,C003,Cucumber,460.0,195.0,12.6,25.0,65.0,6.0,1.5,0.0,Pending,Pune,,FA038,Farm A,Aqua Solutions,Irrigation,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-09,V003,AC04,C004,Spinach,500.0,210.0,13.6,25.3,66.0,6.2,1.45,0.0,Done,Pune,,FA039,Farm A,AgroCare,Pesticide,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-10,V002,AC05,C004,Spinach,510.0,0.0,13.5,24.0,71.0,6.0,1.35,90.0,Done,Pune,,FA040,Farm A,Aqua Solutions,Irrigation,Plant Health Scouting,2026-07,2026,July,17.647058823529413,6.666666666666667
+2026-07-11,V002,AC02,C004,Spinach,440.0,185.0,12.7,24.3,69.0,6.1,1.25,0.0,Done,Pune,,FA041,Farm A,Aqua Solutions,Irrigation,Fertigation,2026-07,2026,July,0.0,0.0
+2026-07-12,V002,AC01,C004,Spinach,470.0,200.0,13.0,25.1,65.0,6.1,1.5,0.0,Done,Pune,,FA042,Farm A,Aqua Solutions,Irrigation,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-13,V001,AC04,C003,Cucumber,570.0,0.0,15.8,25.2,66.0,6.2,1.45,115.0,Done,Pune,,FA043,Farm A,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-07,2026,July,20.175438596491226,7.2784810126582276
+2026-07-14,V005,AC04,C002,Tomato,400.0,150.0,11.0,24.1,72.0,6.0,1.35,0.0,Done,Pune,,FA044,Farm A,FreshCrop Agro,Seeds,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-15,V001,AC02,C004,Spinach,540.0,0.0,14.8,24.4,68.0,6.1,1.3,100.0,Done,Pune,,FA045,Farm A,GreenGrow Agro,Fertilizer,Fertigation,2026-07,2026,July,18.51851851851852,6.756756756756756
+2026-04-01,V002,AC05,C002,Tomato,440.0,185.0,12.8,24.5,67.0,6.1,1.25,0.0,Done,Nashik,4.0,FB001,Farm B,Aqua Solutions,Irrigation,Plant Health Scouting,2026-04,2026,April,0.0,0.0
+2026-04-02,V005,AC02,C004,Spinach,510.0,220.0,14.0,25.2,64.0,6.0,1.55,0.0,Done,Nashik,3.5,FB002,Farm B,FreshCrop Agro,Seeds,Fertigation,2026-04,2026,April,0.0,0.0
+2026-04-03,V001,AC03,C001,Lettuce,480.0,200.0,13.2,25.5,65.0,6.2,1.48,0.0,Done,Nashik,3.0,FB003,Farm B,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-04,2026,April,0.0,0.0
+2026-04-04,V002,AC04,C001,Lettuce,370.0,155.0,11.0,24.0,70.0,6.0,1.32,0.0,Done,Nashik,3.0,FB004,Farm B,Aqua Solutions,Irrigation,Climate Monitoring,2026-04,2026,April,0.0,0.0
+2026-04-05,V003,AC03,C003,Cucumber,540.0,0.0,14.5,24.6,67.0,6.1,1.28,105.0,Done,Nashik,5.0,FB005,Farm B,AgroCare,Pesticide,Cleaning & Sanitization,2026-04,2026,April,19.444444444444446,7.241379310344827
+2026-04-06,V001,AC03,C003,Cucumber,500.0,215.0,13.8,25.3,64.0,6.0,1.55,0.0,Done,Nashik,3.5,FB006,Farm B,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-04,2026,April,0.0,0.0
+2026-04-07,V005,AC04,C003,Cucumber,490.0,205.0,13.5,25.6,65.0,6.2,1.48,0.0,Pending,Nashik,3.5,FB007,Farm B,FreshCrop Agro,Seeds,Climate Monitoring,2026-04,2026,April,0.0,0.0
+2026-04-08,V005,AC04,C001,Lettuce,390.0,160.0,11.2,24.1,71.0,6.0,1.35,0.0,Done,Nashik,2.5,FB008,Farm B,FreshCrop Agro,Seeds,Climate Monitoring,2026-04,2026,April,0.0,0.0
+2026-04-09,V003,AC01,C003,Cucumber,430.0,180.0,12.5,24.4,68.0,6.1,1.25,0.0,In Progress,Nashik,3.0,FB009,Farm B,AgroCare,Pesticide,Irrigation,2026-04,2026,April,0.0,0.0
+2026-04-10,V003,AC02,C003,Cucumber,570.0,0.0,15.2,25.0,65.0,6.1,1.55,110.0,Done,Nashik,5.0,FB010,Farm B,AgroCare,Pesticide,Fertigation,2026-04,2026,April,19.298245614035086,7.236842105263158
+2026-04-11,V004,AC02,C003,Cucumber,510.0,215.0,13.8,25.7,65.0,6.2,1.5,0.0,Done,Nashik,4.0,FB011,Farm B,FarmTech Supplies,Equipment,Fertigation,2026-04,2026,April,0.0,0.0
+2026-04-12,V003,AC04,C001,Lettuce,380.0,155.0,10.8,24.0,72.0,6.0,1.35,0.0,Pending,Nashik,2.5,FB012,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-04,2026,April,0.0,0.0
+2026-06-13,V005,AC01,C001,Lettuce,400.0,160.0,11.5,24.7,68.0,6.2,1.28,0.0,Done,Nashik,2.5,FB013,Farm B,FreshCrop Agro,Seeds,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-14,V004,AC04,C003,Cucumber,500.0,220.0,13.8,25.4,64.0,6.1,1.55,0.0,Done,Nashik,3.5,FB014,Farm B,FarmTech Supplies,Equipment,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-15,V001,AC02,C003,Cucumber,590.0,0.0,15.8,25.3,65.0,6.2,1.5,120.0,Done,Nashik,5.5,FB015,Farm B,GreenGrow Agro,Fertilizer,Fertigation,2026-06,2026,June,20.33898305084746,7.594936708860759
+2026-06-16,V002,AC03,C004,Spinach,370.0,155.0,10.8,24.2,70.0,6.0,1.35,0.0,Done,Nashik,3.0,FB016,Farm B,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-17,V003,AC05,C002,Tomato,450.0,190.0,12.8,24.5,67.0,6.1,1.25,0.0,Delayed,Nashik,4.0,FB017,Farm B,AgroCare,Pesticide,Plant Health Scouting,2026-06,2026,June,0.0,0.0
+2026-06-18,V001,AC04,C004,Spinach,480.0,205.0,13.2,25.2,64.0,6.0,1.55,0.0,Done,Nashik,3.0,FB018,Farm B,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-19,V002,AC01,C001,Lettuce,520.0,220.0,14.0,25.6,65.0,6.2,1.5,0.0,Done,Nashik,3.5,FB019,Farm B,Aqua Solutions,Irrigation,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-20,V002,AC02,C001,Lettuce,460.0,0.0,12.5,24.1,71.0,6.0,1.35,85.0,Done,Nashik,4.5,FB020,Farm B,Aqua Solutions,Irrigation,Fertigation,2026-06,2026,June,18.478260869565215,6.8
+2026-06-21,V004,AC05,C001,Lettuce,460.0,195.0,13.0,24.6,68.0,6.1,1.28,0.0,Done,Nashik,4.0,FB021,Farm B,FarmTech Supplies,Equipment,Plant Health Scouting,2026-06,2026,June,0.0,0.0
+2026-06-22,V001,AC03,C001,Lettuce,520.0,225.0,14.2,25.3,64.0,6.0,1.55,0.0,Pending,Nashik,3.5,FB022,Farm B,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-23,V003,AC01,C002,Tomato,330.0,120.0,9.5,24.8,67.0,6.2,1.45,0.0,Done,Nashik,2.5,FB023,Farm B,AgroCare,Pesticide,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-24,V004,AC01,C001,Lettuce,390.0,150.0,10.8,24.0,72.0,6.0,1.32,0.0,Done,Nashik,2.0,FB024,Farm B,FarmTech Supplies,Equipment,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-25,V003,AC04,C001,Lettuce,560.0,0.0,15.0,24.5,68.0,6.1,1.3,110.0,Done,Nashik,5.0,FB025,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-06,2026,June,19.642857142857142,7.333333333333333
+2026-06-26,V004,AC01,C002,Tomato,490.0,210.0,13.5,25.1,65.0,6.1,1.55,0.0,Done,Nashik,3.5,FB026,Farm B,FarmTech Supplies,Equipment,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-27,V002,AC02,C004,Spinach,510.0,215.0,13.8,25.4,65.0,6.2,1.48,0.0,In Progress,Nashik,3.5,FB027,Farm B,Aqua Solutions,Irrigation,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-28,V005,AC01,C003,Cucumber,400.0,160.0,11.0,24.2,71.0,6.0,1.35,0.0,Done,Nashik,2.5,FB028,Farm B,FreshCrop Agro,Seeds,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-29,V004,AC04,C004,Spinach,420.0,170.0,12.0,24.7,67.0,6.1,1.25,0.0,Done,Nashik,3.0,FB029,Farm B,FarmTech Supplies,Equipment,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-30,V004,AC05,C002,Tomato,600.0,0.0,16.0,25.2,64.0,6.1,1.55,115.0,Done,Nashik,5.5,FB030,Farm B,FarmTech Supplies,Equipment,Plant Health Scouting,2026-06,2026,June,19.166666666666668,7.1875
+2026-07-01,V001,AC05,C001,Lettuce,530.0,225.0,14.2,25.6,65.0,6.2,1.5,0.0,Done,Nashik,4.0,FB031,Farm B,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-02,V003,AC04,C002,Tomato,390.0,150.0,10.5,23.9,72.0,6.0,1.35,0.0,Pending,Nashik,2.5,FB032,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-03,V004,AC01,C001,Lettuce,460.0,195.0,13.0,24.6,68.0,6.1,1.28,0.0,Done,Nashik,3.5,FB033,Farm B,FarmTech Supplies,Equipment,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-04,V002,AC02,C003,Cucumber,510.0,220.0,14.0,25.4,64.0,6.1,1.55,0.0,Done,Nashik,3.5,FB034,Farm B,Aqua Solutions,Irrigation,Fertigation,2026-07,2026,July,0.0,0.0
+2026-07-05,V005,AC03,C001,Lettuce,620.0,0.0,16.2,25.6,65.0,6.2,1.5,125.0,Done,Nashik,5.5,FB035,Farm B,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-07,2026,July,20.161290322580644,7.71604938271605
+2026-07-06,V003,AC03,C003,Cucumber,410.0,165.0,11.2,24.0,72.0,6.0,1.35,0.0,Done,Nashik,3.0,FB036,Farm B,AgroCare,Pesticide,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-07,V002,AC02,C004,Spinach,480.0,200.0,13.2,24.7,67.0,6.1,1.28,0.0,Done,Nashik,4.0,FB037,Farm B,Aqua Solutions,Irrigation,Fertigation,2026-07,2026,July,0.0,0.0
+2026-07-08,V002,AC02,C002,Tomato,500.0,215.0,13.6,25.3,64.0,6.0,1.55,0.0,Pending,Nashik,3.0,FB038,Farm B,Aqua Solutions,Irrigation,Fertigation,2026-07,2026,July,0.0,0.0
+2026-07-09,V005,AC03,C004,Spinach,550.0,230.0,14.5,25.7,65.0,6.2,1.5,0.0,Done,Nashik,3.5,FB039,Farm B,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-10,V003,AC04,C001,Lettuce,540.0,0.0,14.0,24.1,71.0,6.0,1.35,100.0,Done,Nashik,4.5,FB040,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-07,2026,July,18.51851851851852,7.142857142857143
+2026-07-11,V003,AC03,C001,Lettuce,470.0,195.0,13.0,24.5,68.0,6.1,1.28,0.0,Done,Nashik,4.0,FB041,Farm B,AgroCare,Pesticide,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-12,V001,AC03,C004,Spinach,510.0,220.0,14.0,25.2,64.0,6.1,1.55,0.0,Delayed,Nashik,3.5,FB042,Farm B,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-13,V001,AC03,C004,Spinach,640.0,0.0,16.5,25.5,65.0,6.2,1.5,130.0,Done,Nashik,5.5,FB043,Farm B,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-07,2026,July,20.3125,7.878787878787879
+2026-07-14,V004,AC01,C003,Cucumber,420.0,170.0,11.5,24.2,72.0,6.0,1.35,0.0,Done,Nashik,2.5,FB044,Farm B,FarmTech Supplies,Equipment,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-15,V002,AC01,C004,Spinach,580.0,0.0,15.2,24.6,68.0,6.1,1.3,115.0,Done,Nashik,5.0,FB045,Farm B,Aqua Solutions,Irrigation,Irrigation,2026-07,2026,July,19.82758620689655,7.565789473684211
+2026-07-16,V003,AC01,C003,Cucumber,520.0,225.0,14.2,25.4,64.0,6.0,1.55,0.0,Done,Nashik,3.5,FB046,Farm B,AgroCare,Pesticide,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-17,V005,AC04,C002,Tomato,540.0,230.0,14.4,25.8,65.0,6.2,1.5,0.0,Pending,Nashik,4.0,FB047,Farm B,FreshCrop Agro,Seeds,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-18,V003,AC04,C003,Cucumber,400.0,160.0,11.0,24.0,72.0,6.0,1.35,0.0,Done,Nashik,2.5,FB048,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-19,V001,AC02,C001,Lettuce,450.0,180.0,12.5,24.4,69.0,6.1,1.25,0.0,In Progress,Nashik,3.0,FB049,Farm B,GreenGrow Agro,Fertilizer,Fertigation,2026-07,2026,July,0.0,0.0
+2026-07-20,V004,AC05,C001,Lettuce,610.0,0.0,16.0,25.1,65.0,6.1,1.55,120.0,Done,Nashik,5.5,FB050,Farm B,FarmTech Supplies,Equipment,Plant Health Scouting,2026-07,2026,July,19.672131147540984,7.5
+2026-07-21,V001,AC01,C002,Tomato,550.0,235.0,14.8,25.6,66.0,6.2,1.5,0.0,Done,Nashik,4.0,FB051,Farm B,GreenGrow Agro,Fertilizer,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-22,V003,AC04,C001,Lettuce,410.0,165.0,11.2,24.1,72.0,6.0,1.35,0.0,Done,Nashik,2.5,FB052,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-23,V004,AC03,C001,Lettuce,490.0,205.0,13.5,24.7,68.0,6.1,1.28,0.0,Pending,Nashik,3.5,FB053,Farm B,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-24,V005,AC01,C003,Cucumber,530.0,230.0,14.5,25.5,64.0,6.0,1.55,0.0,Done,Nashik,3.5,FB054,Farm B,FreshCrop Agro,Seeds,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-25,V003,AC05,C004,Spinach,660.0,0.0,17.0,25.8,65.0,6.2,1.5,135.0,Done,Nashik,5.5,FB055,Farm B,AgroCare,Pesticide,Plant Health Scouting,2026-07,2026,July,20.454545454545457,7.9411764705882355
+2026-07-26,V004,AC04,C003,Cucumber,420.0,170.0,11.5,24.0,73.0,6.0,1.35,0.0,Done,Nashik,3.0,FB056,Farm B,FarmTech Supplies,Equipment,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-27,V001,AC01,C001,Lettuce,500.0,210.0,13.8,24.6,69.0,6.1,1.28,0.0,Delayed,Nashik,4.0,FB057,Farm B,GreenGrow Agro,Fertilizer,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-28,V004,AC02,C004,Spinach,520.0,225.0,14.0,25.3,65.0,6.0,1.55,0.0,Done,Nashik,3.0,FB058,Farm B,FarmTech Supplies,Equipment,Fertigation,2026-07,2026,July,0.0,0.0
+2026-07-29,V002,AC04,C001,Lettuce,570.0,240.0,15.0,25.7,66.0,6.2,1.5,0.0,Done,Nashik,3.5,FB059,Farm B,Aqua Solutions,Irrigation,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-30,V001,AC03,C001,Lettuce,560.0,0.0,14.5,24.2,72.0,6.0,1.35,105.0,Done,Nashik,4.5,FB060,Farm B,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-07,2026,July,18.75,7.241379310344827
+2026-07-31,V004,AC02,C004,Spinach,480.0,200.0,13.0,24.5,69.0,6.1,1.28,0.0,Done,Nashik,4.0,FB061,Farm B,FarmTech Supplies,Equipment,Fertigation,2026-07,2026,July,0.0,0.0
+2026-08-01,V002,AC05,C002,Tomato,540.0,230.0,14.5,25.4,64.0,6.0,1.55,0.0,Done,Nashik,3.5,FB062,Farm B,Aqua Solutions,Irrigation,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-02,V001,AC04,C001,Lettuce,580.0,245.0,15.2,25.8,65.0,6.2,1.5,0.0,Pending,Nashik,4.0,FB063,Farm B,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-03,V001,AC01,C004,Spinach,430.0,170.0,11.5,24.1,72.0,6.0,1.35,0.0,Done,Nashik,2.5,FB064,Farm B,GreenGrow Agro,Fertilizer,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-04,V005,AC03,C003,Cucumber,590.0,0.0,15.5,24.7,68.0,6.1,1.3,120.0,Done,Nashik,5.0,FB065,Farm B,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-08,2026,August,20.33898305084746,7.741935483870968
+2026-08-05,V001,AC02,C001,Lettuce,550.0,235.0,14.8,25.5,64.0,6.0,1.55,0.0,Done,Nashik,3.5,FB066,Farm B,GreenGrow Agro,Fertilizer,Fertigation,2026-08,2026,August,0.0,0.0
+2026-08-06,V001,AC01,C002,Tomato,590.0,250.0,15.5,25.9,65.0,6.2,1.5,0.0,In Progress,Nashik,4.0,FB067,Farm B,GreenGrow Agro,Fertilizer,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-07,V002,AC04,C002,Tomato,410.0,165.0,11.0,24.0,73.0,6.0,1.35,0.0,Done,Nashik,2.5,FB068,Farm B,Aqua Solutions,Irrigation,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-08,V004,AC01,C003,Cucumber,460.0,185.0,12.8,24.4,69.0,6.1,1.25,0.0,Done,Nashik,3.0,FB069,Farm B,FarmTech Supplies,Equipment,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-09,V004,AC03,C003,Cucumber,630.0,0.0,16.5,25.2,65.0,6.1,1.55,125.0,Done,Nashik,5.5,FB070,Farm B,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-08,2026,August,19.841269841269842,7.575757575757576
+2026-08-10,V003,AC04,C003,Cucumber,600.0,255.0,15.8,25.7,66.0,6.2,1.5,0.0,Done,Nashik,4.0,FB071,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-11,V005,AC01,C003,Cucumber,440.0,175.0,11.8,24.1,72.0,6.0,1.35,0.0,Pending,Nashik,2.5,FB072,Farm B,FreshCrop Agro,Seeds,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-12,V004,AC05,C004,Spinach,510.0,215.0,14.0,24.8,68.0,6.1,1.28,0.0,Done,Nashik,3.5,FB073,Farm B,FarmTech Supplies,Equipment,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-13,V002,AC03,C004,Spinach,560.0,240.0,15.0,25.6,64.0,6.1,1.55,0.0,Done,Nashik,3.5,FB074,Farm B,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-14,V003,AC05,C002,Tomato,680.0,0.0,17.5,25.9,65.0,6.2,1.5,140.0,Done,Nashik,5.5,FB075,Farm B,AgroCare,Pesticide,Plant Health Scouting,2026-08,2026,August,20.588235294117645,8.0
+2026-08-15,V002,AC05,C002,Tomato,450.0,180.0,12.0,24.2,72.0,6.0,1.35,0.0,Done,Nashik,3.0,FB076,Farm B,Aqua Solutions,Irrigation,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-16,V003,AC05,C004,Spinach,520.0,220.0,14.2,24.6,69.0,6.1,1.28,0.0,Delayed,Nashik,4.0,FB077,Farm B,AgroCare,Pesticide,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-17,V001,AC03,C001,Lettuce,550.0,235.0,14.8,25.4,64.0,6.0,1.55,0.0,Done,Nashik,3.0,FB078,Farm B,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-18,V004,AC03,C003,Cucumber,610.0,260.0,16.0,25.8,65.0,6.2,1.5,0.0,Done,Nashik,3.5,FB079,Farm B,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-19,V002,AC02,C002,Tomato,580.0,0.0,15.0,24.0,73.0,6.0,1.35,110.0,Done,Nashik,4.5,FB080,Farm B,Aqua Solutions,Irrigation,Fertigation,2026-08,2026,August,18.96551724137931,7.333333333333333
+2026-08-20,V002,AC03,C003,Cucumber,500.0,210.0,13.8,24.5,69.0,6.1,1.28,0.0,Done,Nashik,4.0,FB081,Farm B,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-21,V005,AC04,C004,Spinach,570.0,245.0,15.2,25.5,64.0,6.0,1.55,0.0,Pending,Nashik,3.5,FB082,Farm B,FreshCrop Agro,Seeds,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-22,V002,AC03,C004,Spinach,620.0,265.0,16.2,25.9,65.0,6.2,1.5,0.0,Done,Nashik,4.0,FB083,Farm B,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-23,V001,AC04,C003,Cucumber,420.0,165.0,11.2,24.1,73.0,6.0,1.35,0.0,Done,Nashik,2.5,FB084,Farm B,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-24,V001,AC03,C004,Spinach,610.0,0.0,16.0,24.7,68.0,6.1,1.3,125.0,Done,Nashik,5.0,FB085,Farm B,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-08,2026,August,20.491803278688526,7.8125
+2026-08-25,V001,AC03,C001,Lettuce,580.0,250.0,15.5,25.6,64.0,6.0,1.55,0.0,Done,Nashik,3.5,FB086,Farm B,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-26,V005,AC05,C001,Lettuce,630.0,270.0,16.5,26.0,65.0,6.2,1.5,0.0,In Progress,Nashik,4.0,FB087,Farm B,FreshCrop Agro,Seeds,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-27,V002,AC01,C001,Lettuce,440.0,175.0,11.8,24.2,72.0,6.0,1.35,0.0,Done,Nashik,2.5,FB088,Farm B,Aqua Solutions,Irrigation,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-28,V004,AC03,C003,Cucumber,480.0,195.0,13.0,24.5,69.0,6.1,1.25,0.0,Done,Nashik,3.0,FB089,Farm B,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-29,V005,AC03,C001,Lettuce,650.0,0.0,17.0,25.3,65.0,6.1,1.55,130.0,Done,Nashik,5.5,FB090,Farm B,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-08,2026,August,20.0,7.647058823529412
+2026-08-30,V004,AC02,C004,Spinach,640.0,275.0,16.8,25.8,66.0,6.2,1.5,0.0,Done,Nashik,4.0,FB091,Farm B,FarmTech Supplies,Equipment,Fertigation,2026-08,2026,August,0.0,0.0
+2026-08-31,V002,AC03,C003,Cucumber,450.0,180.0,12.0,24.0,73.0,6.0,1.35,0.0,Pending,Nashik,2.5,FB092,Farm B,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-06-01,V003,AC02,C004,Spinach,430.0,175.0,12.2,24.3,68.0,6.1,1.25,0.0,Done,Nashik,3.0,FB093,Farm B,AgroCare,Pesticide,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-03,V002,AC01,C003,Cucumber,500.0,215.0,13.8,25.2,64.0,6.0,1.55,0.0,Done,Nashik,3.5,FB094,Farm B,Aqua Solutions,Irrigation,Irrigation,2026-06,2026,June,0.0,0.0
+2026-05-05,V001,AC05,C001,Lettuce,580.0,0.0,15.5,25.5,65.0,6.2,1.5,115.0,Done,Nashik,5.0,FB095,Farm B,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-05,2026,May,19.82758620689655,7.419354838709677
+2026-05-07,V001,AC04,C001,Lettuce,380.0,155.0,10.8,24.0,71.0,6.0,1.35,0.0,Done,Nashik,3.0,FB096,Farm B,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-05,2026,May,0.0,0.0
+2026-05-09,V005,AC03,C002,Tomato,450.0,190.0,12.8,24.6,68.0,6.1,1.28,0.0,Pending,Nashik,4.0,FB097,Farm B,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-05,2026,May,0.0,0.0
+2026-05-11,V001,AC01,C003,Cucumber,490.0,210.0,13.5,25.3,64.0,6.0,1.55,0.0,Done,Nashik,3.0,FB098,Farm B,GreenGrow Agro,Fertilizer,Irrigation,2026-05,2026,May,0.0,0.0
+2026-05-13,V001,AC01,C003,Cucumber,520.0,220.0,14.0,25.7,65.0,6.2,1.5,0.0,Done,Nashik,3.5,FB099,Farm B,GreenGrow Agro,Fertilizer,Irrigation,2026-05,2026,May,0.0,0.0
+2026-05-15,V003,AC04,C001,Lettuce,470.0,0.0,12.8,24.1,72.0,6.0,1.35,90.0,Done,Nashik,4.5,FB100,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-05,2026,May,19.148936170212767,7.03125
+2026-05-17,V003,AC05,C001,Lettuce,460.0,195.0,13.0,24.5,68.0,6.1,1.28,0.0,Done,Nashik,4.0,FB101,Farm B,AgroCare,Pesticide,Plant Health Scouting,2026-05,2026,May,0.0,0.0
+2026-05-19,V003,AC04,C004,Spinach,510.0,220.0,14.0,25.4,64.0,6.1,1.55,0.0,Delayed,Nashik,3.5,FB102,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-05,2026,May,0.0,0.0
+2026-05-21,V001,AC05,C001,Lettuce,600.0,0.0,16.0,25.8,65.0,6.2,1.5,120.0,Done,Nashik,5.5,FB103,Farm B,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-05,2026,May,20.0,7.5
+2026-05-23,V004,AC02,C001,Lettuce,400.0,160.0,11.0,24.0,72.0,6.0,1.35,0.0,Done,Nashik,2.5,FB104,Farm B,FarmTech Supplies,Equipment,Fertigation,2026-05,2026,May,0.0,0.0
+2026-05-25,V003,AC01,C003,Cucumber,570.0,0.0,15.0,24.6,68.0,6.1,1.3,110.0,Done,Nashik,5.0,FB105,Farm B,AgroCare,Pesticide,Irrigation,2026-05,2026,May,19.298245614035086,7.333333333333333
+2026-05-27,V002,AC05,C003,Cucumber,520.0,225.0,14.2,25.5,64.0,6.0,1.55,0.0,Done,Nashik,3.5,FB106,Farm B,Aqua Solutions,Irrigation,Plant Health Scouting,2026-05,2026,May,0.0,0.0
+2026-05-29,V001,AC02,C002,Tomato,540.0,230.0,14.5,25.7,65.0,6.2,1.5,0.0,In Progress,Nashik,4.0,FB107,Farm B,GreenGrow Agro,Fertilizer,Fertigation,2026-05,2026,May,0.0,0.0
+2026-07-01,V005,AC01,C001,Lettuce,410.0,165.0,11.2,24.1,72.0,6.0,1.35,0.0,Done,Nashik,2.5,FB108,Farm B,FreshCrop Agro,Seeds,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-03,V004,AC03,C001,Lettuce,440.0,180.0,12.5,24.4,69.0,6.1,1.25,0.0,Done,Nashik,3.0,FB109,Farm B,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-05,V005,AC04,C001,Lettuce,620.0,0.0,16.2,25.3,64.0,6.1,1.55,120.0,Done,Nashik,5.5,FB110,Farm B,FreshCrop Agro,Seeds,Climate Monitoring,2026-07,2026,July,19.35483870967742,7.407407407407407
+2026-07-07,V002,AC03,C001,Lettuce,560.0,240.0,15.0,25.8,65.0,6.2,1.5,0.0,Done,Nashik,4.0,FB111,Farm B,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-09,V002,AC03,C004,Spinach,420.0,170.0,11.5,24.0,72.0,6.0,1.35,0.0,Pending,Nashik,2.5,FB112,Farm B,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-11,V003,AC05,C004,Spinach,490.0,205.0,13.5,24.7,68.0,6.1,1.28,0.0,Done,Nashik,3.5,FB113,Farm B,AgroCare,Pesticide,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-13,V004,AC04,C003,Cucumber,530.0,230.0,14.5,25.5,64.0,6.1,1.55,0.0,Done,Nashik,3.5,FB114,Farm B,FarmTech Supplies,Equipment,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-15,V001,AC03,C001,Lettuce,650.0,0.0,16.8,25.8,65.0,6.2,1.5,130.0,Done,Nashik,5.5,FB115,Farm B,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-07,2026,July,20.0,7.738095238095238
+2026-07-17,V003,AC04,C002,Tomato,430.0,175.0,11.8,24.2,72.0,6.0,1.35,0.0,Done,Nashik,3.0,FB116,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-19,V003,AC01,C004,Spinach,500.0,210.0,13.8,24.6,69.0,6.1,1.28,0.0,Delayed,Nashik,4.0,FB117,Farm B,AgroCare,Pesticide,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-21,V004,AC05,C003,Cucumber,550.0,235.0,14.8,25.4,64.0,6.0,1.55,0.0,Done,Nashik,3.0,FB118,Farm B,FarmTech Supplies,Equipment,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-23,V003,AC05,C001,Lettuce,580.0,245.0,15.2,25.9,65.0,6.2,1.5,0.0,Done,Nashik,3.5,FB119,Farm B,AgroCare,Pesticide,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-25,V002,AC01,C001,Lettuce,560.0,0.0,14.5,24.1,73.0,6.0,1.35,105.0,Done,Nashik,4.5,FB120,Farm B,Aqua Solutions,Irrigation,Irrigation,2026-07,2026,July,18.75,7.241379310344827
+2026-07-27,V003,AC01,C002,Tomato,510.0,215.0,14.0,24.5,69.0,6.1,1.28,0.0,Done,Nashik,4.0,FB121,Farm B,AgroCare,Pesticide,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-29,V002,AC05,C004,Spinach,560.0,240.0,15.0,25.6,64.0,6.0,1.55,0.0,Pending,Nashik,3.5,FB122,Farm B,Aqua Solutions,Irrigation,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-31,V004,AC04,C004,Spinach,610.0,260.0,16.0,25.9,65.0,6.2,1.5,0.0,Done,Nashik,4.0,FB123,Farm B,FarmTech Supplies,Equipment,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-08-02,V002,AC02,C001,Lettuce,440.0,175.0,11.8,24.0,73.0,6.0,1.35,0.0,Done,Nashik,2.5,FB124,Farm B,Aqua Solutions,Irrigation,Fertigation,2026-08,2026,August,0.0,0.0
+2026-08-04,V003,AC04,C003,Cucumber,600.0,0.0,15.8,24.7,68.0,6.1,1.3,120.0,Done,Nashik,5.0,FB125,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-08,2026,August,20.0,7.594936708860759
+2026-08-06,V002,AC02,C001,Lettuce,570.0,245.0,15.2,25.5,64.0,6.0,1.55,0.0,Done,Nashik,3.5,FB126,Farm B,Aqua Solutions,Irrigation,Fertigation,2026-08,2026,August,0.0,0.0
+2026-08-08,V001,AC01,C002,Tomato,620.0,265.0,16.2,25.9,65.0,6.2,1.5,0.0,In Progress,Nashik,4.0,FB127,Farm B,GreenGrow Agro,Fertilizer,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-10,V001,AC01,C004,Spinach,430.0,170.0,11.5,24.1,72.0,6.0,1.35,0.0,Done,Nashik,2.5,FB128,Farm B,GreenGrow Agro,Fertilizer,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-12,V004,AC03,C001,Lettuce,470.0,190.0,12.8,24.5,69.0,6.1,1.25,0.0,Done,Nashik,3.0,FB129,Farm B,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-14,V005,AC05,C001,Lettuce,640.0,0.0,16.8,25.3,64.0,6.1,1.55,125.0,Done,Nashik,5.5,FB130,Farm B,FreshCrop Agro,Seeds,Plant Health Scouting,2026-08,2026,August,19.53125,7.44047619047619
+2026-08-16,V002,AC04,C004,Spinach,630.0,270.0,16.5,25.8,66.0,6.2,1.5,0.0,Done,Nashik,4.0,FB131,Farm B,Aqua Solutions,Irrigation,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-18,V002,AC01,C003,Cucumber,450.0,180.0,12.0,24.0,73.0,6.0,1.35,0.0,Pending,Nashik,2.5,FB132,Farm B,Aqua Solutions,Irrigation,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-20,V001,AC05,C001,Lettuce,520.0,220.0,14.2,24.8,68.0,6.1,1.28,0.0,Done,Nashik,3.5,FB133,Farm B,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-22,V005,AC03,C002,Tomato,580.0,250.0,15.5,25.6,64.0,6.1,1.55,0.0,Done,Nashik,3.5,FB134,Farm B,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-24,V005,AC01,C004,Spinach,700.0,0.0,18.0,26.0,65.0,6.2,1.5,145.0,Done,Nashik,5.5,FB135,Farm B,FreshCrop Agro,Seeds,Irrigation,2026-08,2026,August,20.714285714285715,8.055555555555555
+2026-08-26,V005,AC01,C001,Lettuce,460.0,185.0,12.2,24.2,72.0,6.0,1.35,0.0,Done,Nashik,3.0,FB136,Farm B,FreshCrop Agro,Seeds,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-28,V002,AC01,C003,Cucumber,530.0,225.0,14.5,24.6,69.0,6.1,1.28,0.0,Delayed,Nashik,4.0,FB137,Farm B,Aqua Solutions,Irrigation,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-30,V004,AC03,C001,Lettuce,590.0,255.0,15.8,25.5,64.0,6.0,1.55,0.0,Done,Nashik,3.0,FB138,Farm B,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-31,V005,AC01,C001,Lettuce,650.0,280.0,17.0,25.9,65.0,6.2,1.5,0.0,Done,Nashik,3.5,FB139,Farm B,FreshCrop Agro,Seeds,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-01,V005,AC05,C003,Cucumber,590.0,0.0,15.2,24.1,73.0,6.0,1.35,115.0,Done,Nashik,4.5,FB140,Farm B,FreshCrop Agro,Seeds,Plant Health Scouting,2026-08,2026,August,19.491525423728813,7.565789473684211
+2026-08-03,V001,AC01,C002,Tomato,510.0,215.0,13.8,24.5,69.0,6.1,1.28,0.0,Done,Nashik,4.0,FB141,Farm B,GreenGrow Agro,Fertilizer,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-05,V005,AC04,C001,Lettuce,560.0,240.0,15.0,25.4,64.0,6.0,1.55,0.0,Pending,Nashik,3.5,FB142,Farm B,FreshCrop Agro,Seeds,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-07,V001,AC05,C004,Spinach,620.0,265.0,16.2,25.8,65.0,6.2,1.5,0.0,Done,Nashik,4.0,FB143,Farm B,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-09,V001,AC04,C004,Spinach,420.0,165.0,11.2,24.0,73.0,6.0,1.35,0.0,Done,Nashik,2.5,FB144,Farm B,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-11,V003,AC03,C004,Spinach,600.0,0.0,15.8,24.7,68.0,6.1,1.3,120.0,Done,Nashik,5.0,FB145,Farm B,AgroCare,Pesticide,Cleaning & Sanitization,2026-08,2026,August,20.0,7.594936708860759
+2026-08-13,V004,AC03,C001,Lettuce,570.0,245.0,15.2,25.5,64.0,6.0,1.55,0.0,Done,Nashik,3.5,FB146,Farm B,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-15,V004,AC04,C003,Cucumber,630.0,270.0,16.5,25.9,65.0,6.2,1.5,0.0,In Progress,Nashik,4.0,FB147,Farm B,FarmTech Supplies,Equipment,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-17,V001,AC05,C002,Tomato,440.0,175.0,11.8,24.1,72.0,6.0,1.35,0.0,Done,Nashik,2.5,FB148,Farm B,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-19,V002,AC02,C004,Spinach,480.0,195.0,13.0,24.5,69.0,6.1,1.25,0.0,Done,Nashik,3.0,FB149,Farm B,Aqua Solutions,Irrigation,Fertigation,2026-08,2026,August,0.0,0.0
+2026-08-21,V003,AC04,C003,Cucumber,650.0,0.0,17.0,25.3,65.0,6.1,1.55,130.0,Done,Nashik,5.5,FB150,Farm B,AgroCare,Pesticide,Climate Monitoring,2026-08,2026,August,20.0,7.647058823529412
+2026-06-01,V001,AC01,C001,Lettuce,407.0,189.0,12.5,24.7,67.0,6.2,1.25,0.0,Done,Satara,4.0,FC001,Farm C,GreenGrow Agro,Fertilizer,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-02,V003,AC04,C003,Cucumber,504.0,232.0,14.3,25.4,64.0,6.0,1.55,0.0,Done,Satara,3.0,FC002,Farm C,AgroCare,Pesticide,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-03,V005,AC01,C003,Cucumber,540.0,253.0,15.0,26.0,65.0,6.1,1.5,0.0,Done,Satara,3.5,FC003,Farm C,FreshCrop Agro,Seeds,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-04,V003,AC01,C001,Lettuce,390.0,164.0,10.8,24.1,73.0,6.0,1.32,0.0,Pending,Satara,2.5,FC004,Farm C,AgroCare,Pesticide,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-05,V003,AC04,C003,Cucumber,449.0,0.0,12.8,24.5,69.0,6.1,1.28,126.0,Done,Satara,5.0,FC005,Farm C,AgroCare,Pesticide,Climate Monitoring,2026-06,2026,June,28.06236080178174,9.84375
+2026-06-06,V004,AC01,C001,Lettuce,545.0,237.0,14.7,25.4,65.0,6.0,1.59,0.0,Done,Satara,3.5,FC006,Farm C,FarmTech Supplies,Equipment,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-07,V005,AC04,C002,Tomato,571.0,248.0,15.0,25.8,65.0,6.2,1.47,0.0,Done,Satara,3.0,FC007,Farm C,FreshCrop Agro,Seeds,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-08,V005,AC02,C003,Cucumber,342.0,172.0,10.8,24.3,72.0,6.1,1.37,0.0,In Progress,Satara,2.5,FC008,Farm C,FreshCrop Agro,Seeds,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-09,V001,AC04,C003,Cucumber,421.0,199.0,13.2,24.5,68.0,6.0,1.32,0.0,Done,Satara,3.5,FC009,Farm C,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-10,V001,AC01,C001,Lettuce,534.0,0.0,14.5,25.6,64.0,6.0,1.55,144.0,Done,Satara,6.0,FC010,Farm C,GreenGrow Agro,Fertilizer,Irrigation,2026-06,2026,June,26.96629213483146,9.931034482758621
+2026-06-11,V001,AC04,C003,Cucumber,560.0,250.0,15.0,25.8,66.0,6.2,1.52,0.0,Done,Satara,3.0,FC011,Farm C,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-12,V003,AC04,C004,Spinach,347.0,159.0,10.5,24.1,72.0,6.0,1.35,0.0,Done,Satara,2.5,FC012,Farm C,AgroCare,Pesticide,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-13,V002,AC02,C003,Cucumber,417.0,195.0,12.8,24.7,68.0,6.1,1.3,0.0,Done,Satara,4.0,FC013,Farm C,Aqua Solutions,Irrigation,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-14,V001,AC01,C001,Lettuce,518.0,238.0,14.5,25.4,63.0,6.1,1.57,0.0,Done,Satara,3.5,FC014,Farm C,GreenGrow Agro,Fertilizer,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-15,V004,AC04,C003,Cucumber,537.0,0.0,15.7,25.8,66.0,6.2,1.5,165.0,Done,Satara,5.5,FC015,Farm C,FarmTech Supplies,Equipment,Climate Monitoring,2026-06,2026,June,30.726256983240223,10.509554140127388
+2026-06-16,V005,AC01,C001,Lettuce,368.0,164.0,11.0,24.3,72.0,5.9,1.35,0.0,Done,Satara,3.0,FC016,Farm C,FreshCrop Agro,Seeds,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-17,V002,AC03,C002,Tomato,427.0,182.0,13.0,24.5,68.0,6.2,1.28,0.0,Pending,Satara,4.0,FC017,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-18,V004,AC04,C004,Spinach,550.0,239.0,14.7,25.6,65.0,6.0,1.55,0.0,Done,Satara,3.5,FC018,Farm C,FarmTech Supplies,Equipment,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-19,V003,AC01,C003,Cucumber,562.0,254.0,15.4,26.0,64.0,6.2,1.54,0.0,Done,Satara,3.0,FC019,Farm C,AgroCare,Pesticide,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-20,V001,AC02,C001,Lettuce,345.0,0.0,10.8,24.1,73.0,6.0,1.39,110.0,Done,Satara,5.0,FC020,Farm C,GreenGrow Agro,Fertilizer,Fertigation,2026-06,2026,June,31.88405797101449,10.185185185185185
+2026-06-21,V003,AC04,C001,Lettuce,452.0,188.0,13.2,24.7,68.0,6.1,1.28,0.0,Done,Satara,3.5,FC021,Farm C,AgroCare,Pesticide,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-22,V001,AC05,C004,Spinach,519.0,221.0,14.3,25.8,65.0,6.0,1.52,0.0,Done,Satara,4.0,FC022,Farm C,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-06,2026,June,0.0,0.0
+2026-06-23,V002,AC03,C001,Lettuce,570.0,254.0,15.4,25.8,66.0,6.2,1.52,0.0,Pending,Satara,3.5,FC023,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-24,V002,AC03,C001,Lettuce,337.0,160.0,11.2,24.0,72.0,6.1,1.35,0.0,Done,Satara,2.5,FC024,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-25,V005,AC05,C001,Lettuce,432.0,0.0,13.0,24.5,69.0,6.0,1.32,129.0,Done,Satara,4.5,FC025,Farm C,FreshCrop Agro,Seeds,Plant Health Scouting,2026-06,2026,June,29.86111111111111,9.923076923076923
+2026-06-26,V004,AC01,C002,Tomato,495.0,239.0,14.3,25.4,64.0,6.1,1.57,0.0,Done,Satara,3.5,FC026,Farm C,FarmTech Supplies,Equipment,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-27,V004,AC04,C001,Lettuce,582.0,236.0,15.4,26.0,66.0,6.2,1.52,0.0,In Progress,Satara,3.0,FC027,Farm C,FarmTech Supplies,Equipment,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-28,V003,AC02,C002,Tomato,380.0,164.0,10.8,24.1,73.0,6.0,1.35,0.0,Done,Satara,2.5,FC028,Farm C,AgroCare,Pesticide,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-29,V001,AC03,C002,Tomato,419.0,184.0,13.0,24.4,69.0,6.1,1.28,0.0,Done,Satara,3.0,FC029,Farm C,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-30,V004,AC01,C003,Cucumber,547.0,0.0,14.5,25.6,64.0,6.1,1.57,147.0,Done,Satara,5.5,FC030,Farm C,FarmTech Supplies,Equipment,Irrigation,2026-06,2026,June,26.87385740402194,10.137931034482758
+2026-07-01,V003,AC01,C001,Lettuce,573.0,238.0,15.2,25.8,65.0,6.2,1.5,0.0,Done,Satara,4.0,FC031,Farm C,AgroCare,Pesticide,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-02,V001,AC05,C002,Tomato,342.0,159.0,11.0,24.3,72.0,6.0,1.35,0.0,Pending,Satara,2.5,FC032,Farm C,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-03,V002,AC05,C003,Cucumber,444.0,198.0,13.5,24.5,68.0,6.1,1.3,0.0,Done,Satara,3.5,FC033,Farm C,Aqua Solutions,Irrigation,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-04,V004,AC05,C004,Spinach,526.0,224.0,14.5,25.4,64.0,6.0,1.55,0.0,Done,Satara,3.5,FC034,Farm C,FarmTech Supplies,Equipment,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-05,V001,AC01,C003,Cucumber,576.0,0.0,15.0,26.0,66.0,6.1,1.5,167.0,Done,Satara,5.5,FC035,Farm C,GreenGrow Agro,Fertilizer,Irrigation,2026-07,2026,July,28.993055555555557,11.133333333333333
+2026-07-06,V003,AC03,C002,Tomato,379.0,170.0,11.2,24.0,73.0,6.0,1.37,0.0,Done,Satara,3.0,FC036,Farm C,AgroCare,Pesticide,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-07,V003,AC02,C001,Lettuce,421.0,182.0,13.2,24.7,68.0,6.1,1.25,0.0,Done,Satara,4.0,FC037,Farm C,AgroCare,Pesticide,Fertigation,2026-07,2026,July,0.0,0.0
+2026-07-08,V005,AC05,C004,Spinach,509.0,238.0,14.7,25.6,65.0,6.0,1.55,0.0,Done,Satara,3.5,FC038,Farm C,FreshCrop Agro,Seeds,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-09,V002,AC01,C001,Lettuce,562.0,237.0,15.2,26.0,66.0,6.2,1.54,0.0,Done,Satara,3.5,FC039,Farm C,Aqua Solutions,Irrigation,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-10,V001,AC03,C002,Tomato,352.0,0.0,11.2,24.1,72.0,6.0,1.35,106.0,Done,Satara,4.5,FC040,Farm C,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-07,2026,July,30.113636363636363,9.464285714285715
+2026-07-11,V003,AC01,C004,Spinach,433.0,198.0,12.8,24.9,67.0,6.2,1.3,0.0,Done,Satara,4.0,FC041,Farm C,AgroCare,Pesticide,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-12,V004,AC03,C003,Cucumber,519.0,228.0,14.0,25.8,64.0,6.0,1.59,0.0,Pending,Satara,3.5,FC042,Farm C,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-13,V004,AC01,C001,Lettuce,567.0,244.0,15.4,25.8,66.0,6.2,1.47,0.0,Done,Satara,3.5,FC043,Farm C,FarmTech Supplies,Equipment,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-14,V003,AC05,C001,Lettuce,383.0,172.0,11.0,24.0,72.0,6.0,1.35,0.0,Done,Satara,3.0,FC044,Farm C,AgroCare,Pesticide,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-15,V002,AC01,C001,Lettuce,447.0,0.0,12.5,24.5,68.0,6.0,1.3,128.0,Done,Satara,5.0,FC045,Farm C,Aqua Solutions,Irrigation,Irrigation,2026-07,2026,July,28.635346756152124,10.24
+2026-07-16,V001,AC03,C003,Cucumber,501.0,234.0,14.3,25.4,65.0,6.0,1.55,0.0,Done,Satara,3.5,FC046,Farm C,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-17,V005,AC05,C001,Lettuce,578.0,242.0,15.7,25.8,66.0,6.2,1.52,0.0,In Progress,Satara,4.0,FC047,Farm C,FreshCrop Agro,Seeds,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-18,V002,AC01,C001,Lettuce,345.0,169.0,11.0,24.3,72.0,6.0,1.35,0.0,Done,Satara,2.5,FC048,Farm C,Aqua Solutions,Irrigation,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-19,V003,AC04,C004,Spinach,416.0,185.0,13.0,24.4,69.0,6.1,1.28,0.0,Done,Satara,3.0,FC049,Farm C,AgroCare,Pesticide,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-20,V005,AC05,C004,Spinach,541.0,0.0,14.7,25.6,64.0,6.0,1.55,148.0,Done,Satara,5.5,FC050,Farm C,FreshCrop Agro,Seeds,Plant Health Scouting,2026-07,2026,July,27.35674676524954,10.068027210884354
+2026-07-21,V004,AC01,C003,Cucumber,583.0,254.0,15.0,25.8,65.0,6.2,1.5,0.0,Done,Satara,4.0,FC051,Farm C,FarmTech Supplies,Equipment,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-22,V005,AC01,C001,Lettuce,370.0,173.0,11.2,24.1,72.0,6.0,1.35,0.0,Done,Satara,2.5,FC052,Farm C,FreshCrop Agro,Seeds,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-23,V004,AC02,C004,Spinach,445.0,191.0,13.0,24.7,68.0,6.1,1.28,0.0,Pending,Satara,3.5,FC053,Farm C,FarmTech Supplies,Equipment,Fertigation,2026-07,2026,July,0.0,0.0
+2026-07-24,V005,AC03,C001,Lettuce,536.0,225.0,14.7,25.4,64.0,6.0,1.57,0.0,Done,Satara,3.5,FC054,Farm C,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-25,V003,AC03,C004,Spinach,564.0,0.0,15.7,26.0,65.0,6.2,1.5,171.0,Done,Satara,5.5,FC055,Farm C,AgroCare,Pesticide,Cleaning & Sanitization,2026-07,2026,July,30.319148936170215,10.89171974522293
+2026-07-26,V003,AC01,C003,Cucumber,355.0,166.0,10.5,24.0,73.0,6.1,1.35,0.0,Done,Satara,3.0,FC056,Farm C,AgroCare,Pesticide,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-27,V003,AC05,C004,Spinach,454.0,200.0,13.5,24.5,68.0,6.1,1.28,0.0,Done,Satara,4.0,FC057,Farm C,AgroCare,Pesticide,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-28,V004,AC01,C003,Cucumber,527.0,231.0,14.3,25.8,64.0,6.0,1.55,0.0,Done,Satara,3.0,FC058,Farm C,FarmTech Supplies,Equipment,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-29,V003,AC01,C004,Spinach,575.0,247.0,15.2,25.8,66.0,6.2,1.5,0.0,Done,Satara,3.5,FC059,Farm C,AgroCare,Pesticide,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-30,V003,AC02,C002,Tomato,371.0,0.0,10.8,24.1,72.0,6.0,1.35,114.0,Done,Satara,4.5,FC060,Farm C,AgroCare,Pesticide,Fertigation,2026-07,2026,July,30.727762803234505,10.555555555555555
+2026-07-31,V003,AC02,C004,Spinach,437.0,199.0,13.2,24.7,68.0,6.2,1.3,0.0,Done,Satara,4.0,FC061,Farm C,AgroCare,Pesticide,Fertigation,2026-07,2026,July,0.0,0.0
+2026-08-01,V002,AC01,C001,Lettuce,530.0,240.0,14.7,25.4,65.0,6.1,1.55,0.0,Done,Satara,3.5,FC062,Farm C,Aqua Solutions,Irrigation,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-02,V002,AC04,C003,Cucumber,588.0,255.0,15.5,25.8,65.0,6.2,1.5,0.0,Pending,Satara,4.0,FC063,Farm C,Aqua Solutions,Irrigation,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-03,V001,AC04,C004,Spinach,350.0,163.0,11.0,24.0,73.0,6.0,1.35,0.0,Done,Satara,2.5,FC064,Farm C,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-04,V003,AC03,C003,Cucumber,462.0,0.0,13.2,24.5,68.0,6.1,1.3,133.0,Done,Satara,5.0,FC065,Farm C,AgroCare,Pesticide,Cleaning & Sanitization,2026-08,2026,August,28.78787878787879,10.075757575757576
+2026-08-05,V002,AC03,C004,Spinach,541.0,230.0,14.5,25.6,64.0,6.0,1.57,0.0,Done,Satara,3.5,FC066,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-06,V004,AC03,C004,Spinach,572.0,251.0,15.2,26.0,66.0,6.2,1.52,0.0,In Progress,Satara,4.0,FC067,Farm C,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-07,V001,AC01,C003,Cucumber,366.0,167.0,10.8,24.3,72.0,6.0,1.35,0.0,Done,Satara,2.5,FC068,Farm C,GreenGrow Agro,Fertilizer,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-08,V001,AC01,C004,Spinach,410.0,180.0,13.0,24.5,69.0,6.1,1.28,0.0,Done,Satara,3.0,FC069,Farm C,GreenGrow Agro,Fertilizer,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-09,V004,AC03,C004,Spinach,554.0,0.0,14.7,25.4,64.0,6.0,1.55,153.0,Done,Satara,5.5,FC070,Farm C,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-08,2026,August,27.617328519855594,10.408163265306124
+2026-08-10,V001,AC03,C004,Spinach,585.0,247.0,15.2,25.8,65.0,6.2,1.5,0.0,Done,Satara,4.0,FC071,Farm C,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-11,V001,AC04,C001,Lettuce,358.0,175.0,11.2,24.1,72.0,6.0,1.35,0.0,Pending,Satara,2.5,FC072,Farm C,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-12,V001,AC05,C002,Tomato,451.0,193.0,12.5,24.7,68.0,6.1,1.28,0.0,Done,Satara,3.5,FC073,Farm C,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-13,V001,AC02,C003,Cucumber,540.0,235.0,14.5,25.6,64.0,6.0,1.55,0.0,Done,Satara,3.5,FC074,Farm C,GreenGrow Agro,Fertilizer,Fertigation,2026-08,2026,August,0.0,0.0
+2026-08-14,V005,AC05,C004,Spinach,595.0,0.0,15.7,25.8,66.0,6.2,1.5,177.0,Done,Satara,5.5,FC075,Farm C,FreshCrop Agro,Seeds,Plant Health Scouting,2026-08,2026,August,29.747899159663866,11.273885350318471
+2026-08-15,V003,AC04,C001,Lettuce,372.0,172.0,11.0,24.0,72.0,6.0,1.35,0.0,Done,Satara,3.0,FC076,Farm C,AgroCare,Pesticide,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-16,V004,AC03,C002,Tomato,448.0,197.0,13.5,24.5,69.0,6.1,1.3,0.0,Done,Satara,4.0,FC077,Farm C,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-17,V002,AC05,C004,Spinach,548.0,236.0,14.3,25.4,64.0,6.0,1.57,0.0,Done,Satara,3.0,FC078,Farm C,Aqua Solutions,Irrigation,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-18,V003,AC04,C004,Spinach,584.0,249.0,15.4,26.0,65.0,6.2,1.5,0.0,Done,Satara,3.5,FC079,Farm C,AgroCare,Pesticide,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-19,V002,AC03,C004,Spinach,379.0,0.0,10.8,24.1,73.0,6.0,1.35,117.0,Done,Satara,4.5,FC080,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-08,2026,August,30.87071240105541,10.833333333333332
+2026-08-20,V005,AC01,C004,Spinach,459.0,195.0,13.0,24.7,68.0,6.1,1.28,0.0,Done,Satara,4.0,FC081,Farm C,FreshCrop Agro,Seeds,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-21,V002,AC04,C004,Spinach,537.0,239.0,14.5,25.4,64.0,6.0,1.55,0.0,Pending,Satara,3.5,FC082,Farm C,Aqua Solutions,Irrigation,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-22,V001,AC04,C001,Lettuce,580.0,255.0,15.2,25.8,66.0,6.2,1.52,0.0,Done,Satara,4.0,FC083,Farm C,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-23,V004,AC04,C002,Tomato,348.0,166.0,11.0,24.0,73.0,6.0,1.35,0.0,Done,Satara,2.5,FC084,Farm C,FarmTech Supplies,Equipment,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-24,V003,AC03,C004,Spinach,467.0,0.0,12.8,24.5,68.0,6.1,1.3,136.0,Done,Satara,5.0,FC085,Farm C,AgroCare,Pesticide,Cleaning & Sanitization,2026-08,2026,August,29.1220556745182,10.625
+2026-08-25,V003,AC01,C003,Cucumber,545.0,242.0,14.7,25.6,64.0,6.0,1.57,0.0,Done,Satara,3.5,FC086,Farm C,AgroCare,Pesticide,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-26,V003,AC05,C004,Spinach,590.0,252.0,15.5,26.0,65.0,6.2,1.5,0.0,In Progress,Satara,4.0,FC087,Farm C,AgroCare,Pesticide,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-27,V004,AC02,C002,Tomato,370.0,172.0,11.2,24.1,72.0,6.0,1.37,0.0,Done,Satara,2.5,FC088,Farm C,FarmTech Supplies,Equipment,Fertigation,2026-08,2026,August,0.0,0.0
+2026-08-28,V002,AC02,C003,Cucumber,425.0,187.0,13.0,24.4,69.0,6.1,1.28,0.0,Done,Satara,3.0,FC089,Farm C,Aqua Solutions,Irrigation,Fertigation,2026-08,2026,August,0.0,0.0
+2026-08-29,V001,AC05,C003,Cucumber,558.0,0.0,14.5,25.4,64.0,6.0,1.55,156.0,Done,Satara,5.5,FC090,Farm C,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-08,2026,August,27.956989247311824,10.758620689655173
+2026-08-30,V002,AC03,C001,Lettuce,598.0,255.0,15.7,25.8,66.0,6.2,1.5,0.0,Done,Satara,4.0,FC091,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-31,V001,AC05,C003,Cucumber,375.0,174.0,11.0,24.0,73.0,6.0,1.35,0.0,Pending,Satara,2.5,FC092,Farm C,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-06-01,V002,AC01,C001,Lettuce,415.0,185.0,12.8,24.5,68.0,6.1,1.28,0.0,Done,Satara,3.0,FC093,Farm C,Aqua Solutions,Irrigation,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-04,V004,AC02,C004,Spinach,532.0,228.0,14.5,25.6,64.0,6.0,1.55,0.0,Done,Satara,3.5,FC094,Farm C,FarmTech Supplies,Equipment,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-07,V002,AC03,C002,Tomato,570.0,0.0,15.5,25.8,65.0,6.2,1.5,169.0,Done,Satara,5.0,FC095,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-06,2026,June,29.64912280701754,10.903225806451612
+2026-06-10,V002,AC05,C001,Lettuce,363.0,169.0,11.0,24.1,72.0,6.0,1.35,0.0,Done,Satara,3.0,FC096,Farm C,Aqua Solutions,Irrigation,Plant Health Scouting,2026-06,2026,June,0.0,0.0
+2026-06-13,V004,AC04,C001,Lettuce,440.0,193.0,13.2,24.7,68.0,6.1,1.28,0.0,Pending,Satara,4.0,FC097,Farm C,FarmTech Supplies,Equipment,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-16,V001,AC03,C001,Lettuce,535.0,238.0,14.5,25.4,64.0,6.0,1.57,0.0,Done,Satara,3.0,FC098,Farm C,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-19,V004,AC02,C001,Lettuce,575.0,250.0,15.4,25.8,66.0,6.2,1.5,0.0,Done,Satara,3.5,FC099,Farm C,FarmTech Supplies,Equipment,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-22,V002,AC04,C003,Cucumber,370.0,0.0,10.8,24.1,73.0,6.0,1.35,112.0,Done,Satara,4.5,FC100,Farm C,Aqua Solutions,Irrigation,Climate Monitoring,2026-06,2026,June,30.270270270270274,10.37037037037037
+2026-06-25,V005,AC05,C002,Tomato,452.0,197.0,13.0,24.5,68.0,6.1,1.3,0.0,Done,Satara,4.0,FC101,Farm C,FreshCrop Agro,Seeds,Plant Health Scouting,2026-06,2026,June,0.0,0.0
+2026-06-28,V002,AC03,C001,Lettuce,525.0,230.0,14.7,25.6,64.0,6.0,1.55,0.0,Done,Satara,3.5,FC102,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-07-01,V001,AC04,C002,Tomato,585.0,0.0,15.7,25.8,65.0,6.2,1.5,175.0,Done,Satara,5.5,FC103,Farm C,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-07,2026,July,29.914529914529915,11.146496815286625
+2026-07-04,V001,AC05,C003,Cucumber,355.0,165.0,11.0,24.0,72.0,6.0,1.35,0.0,Done,Satara,2.5,FC104,Farm C,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-07,V001,AC01,C004,Spinach,460.0,0.0,13.2,24.7,68.0,6.1,1.3,132.0,Done,Satara,5.0,FC105,Farm C,GreenGrow Agro,Fertilizer,Irrigation,2026-07,2026,July,28.695652173913043,10.0
+2026-07-10,V002,AC02,C001,Lettuce,542.0,236.0,14.5,25.4,64.0,6.0,1.55,0.0,Done,Satara,3.5,FC106,Farm C,Aqua Solutions,Irrigation,Fertigation,2026-07,2026,July,0.0,0.0
+2026-07-13,V005,AC01,C003,Cucumber,590.0,250.0,15.5,26.0,66.0,6.2,1.5,0.0,In Progress,Satara,4.0,FC107,Farm C,FreshCrop Agro,Seeds,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-16,V002,AC03,C004,Spinach,367.0,172.0,11.0,24.1,72.0,6.0,1.35,0.0,Done,Satara,2.5,FC108,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-19,V003,AC01,C003,Cucumber,430.0,190.0,13.0,24.4,69.0,6.1,1.28,0.0,Done,Satara,3.0,FC109,Farm C,AgroCare,Pesticide,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-22,V004,AC01,C004,Spinach,550.0,0.0,14.7,25.6,64.0,6.0,1.55,150.0,Done,Satara,5.5,FC110,Farm C,FarmTech Supplies,Equipment,Irrigation,2026-07,2026,July,27.27272727272727,10.204081632653061
+2026-07-25,V004,AC03,C001,Lettuce,600.0,255.0,15.7,25.8,65.0,6.2,1.52,0.0,Done,Satara,4.0,FC111,Farm C,FarmTech Supplies,Equipment,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-28,V004,AC02,C003,Cucumber,375.0,170.0,11.0,24.0,72.0,6.0,1.35,0.0,Pending,Satara,2.5,FC112,Farm C,FarmTech Supplies,Equipment,Fertigation,2026-07,2026,July,0.0,0.0
+2026-07-31,V005,AC04,C002,Tomato,455.0,198.0,13.2,24.7,68.0,6.1,1.28,0.0,Done,Satara,3.5,FC113,Farm C,FreshCrop Agro,Seeds,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-08-03,V005,AC04,C004,Spinach,545.0,240.0,14.7,25.5,64.0,6.0,1.55,0.0,Done,Satara,3.5,FC114,Farm C,FreshCrop Agro,Seeds,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-06,V001,AC03,C001,Lettuce,605.0,0.0,15.5,25.8,65.0,6.2,1.5,180.0,Done,Satara,5.5,FC115,Farm C,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-08,2026,August,29.75206611570248,11.612903225806452
+2026-08-09,V001,AC05,C002,Tomato,365.0,168.0,11.2,24.1,72.0,6.0,1.35,0.0,Done,Satara,3.0,FC116,Farm C,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-12,V004,AC01,C001,Lettuce,470.0,205.0,13.5,24.6,69.0,6.1,1.3,0.0,Done,Satara,4.0,FC117,Farm C,FarmTech Supplies,Equipment,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-15,V002,AC03,C003,Cucumber,550.0,240.0,14.5,25.4,64.0,6.0,1.55,0.0,Done,Satara,3.0,FC118,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-18,V005,AC01,C001,Lettuce,610.0,260.0,15.7,25.9,66.0,6.2,1.5,0.0,Done,Satara,3.5,FC119,Farm C,FreshCrop Agro,Seeds,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-21,V001,AC02,C003,Cucumber,380.0,0.0,11.0,24.1,73.0,6.0,1.35,118.0,Done,Satara,4.5,FC120,Farm C,GreenGrow Agro,Fertilizer,Fertigation,2026-08,2026,August,31.05263157894737,10.727272727272727
+2026-08-24,V001,AC05,C001,Lettuce,462.0,200.0,13.2,24.5,69.0,6.1,1.28,0.0,Done,Satara,4.0,FC121,Farm C,GreenGrow Agro,Fertilizer,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-27,V004,AC01,C001,Lettuce,555.0,245.0,14.8,25.5,64.0,6.0,1.57,0.0,Pending,Satara,3.5,FC122,Farm C,FarmTech Supplies,Equipment,Irrigation,2026-08,2026,August,0.0,0.0
+2026-08-30,V002,AC04,C001,Lettuce,615.0,265.0,16.0,25.8,65.0,6.2,1.5,0.0,Done,Satara,4.0,FC123,Farm C,Aqua Solutions,Irrigation,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-06-02,V002,AC05,C002,Tomato,350.0,165.0,11.0,24.0,73.0,6.0,1.35,0.0,Done,Satara,2.5,FC124,Farm C,Aqua Solutions,Irrigation,Plant Health Scouting,2026-06,2026,June,0.0,0.0
+2026-06-05,V002,AC02,C001,Lettuce,475.0,0.0,13.0,24.7,68.0,6.1,1.3,138.0,Done,Satara,5.0,FC125,Farm C,Aqua Solutions,Irrigation,Fertigation,2026-06,2026,June,29.05263157894737,10.615384615384615
+2026-06-08,V001,AC01,C001,Lettuce,548.0,242.0,14.5,25.5,64.0,6.0,1.55,0.0,Done,Satara,3.5,FC126,Farm C,GreenGrow Agro,Fertilizer,Irrigation,2026-06,2026,June,0.0,0.0
+2026-06-11,V002,AC05,C003,Cucumber,595.0,255.0,15.5,25.9,65.0,6.2,1.5,0.0,In Progress,Satara,4.0,FC127,Farm C,Aqua Solutions,Irrigation,Plant Health Scouting,2026-06,2026,June,0.0,0.0
+2026-06-14,V005,AC03,C002,Tomato,368.0,170.0,11.2,24.1,72.0,6.0,1.35,0.0,Done,Satara,2.5,FC128,Farm C,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-17,V004,AC04,C001,Lettuce,435.0,190.0,13.0,24.5,69.0,6.1,1.28,0.0,Done,Satara,3.0,FC129,Farm C,FarmTech Supplies,Equipment,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-06-20,V005,AC03,C001,Lettuce,560.0,0.0,14.7,25.4,64.0,6.0,1.55,158.0,Done,Satara,5.5,FC130,Farm C,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-06,2026,June,28.214285714285715,10.748299319727892
+2026-06-23,V005,AC02,C004,Spinach,620.0,265.0,16.0,25.8,66.0,6.2,1.5,0.0,Done,Satara,4.0,FC131,Farm C,FreshCrop Agro,Seeds,Fertigation,2026-06,2026,June,0.0,0.0
+2026-06-26,V005,AC03,C001,Lettuce,375.0,175.0,11.0,24.0,73.0,6.0,1.35,0.0,Pending,Satara,2.5,FC132,Farm C,FreshCrop Agro,Seeds,Cleaning & Sanitization,2026-06,2026,June,0.0,0.0
+2026-06-29,V004,AC04,C001,Lettuce,465.0,205.0,13.5,24.7,68.0,6.1,1.3,0.0,Done,Satara,3.5,FC133,Farm C,FarmTech Supplies,Equipment,Climate Monitoring,2026-06,2026,June,0.0,0.0
+2026-07-02,V002,AC01,C001,Lettuce,560.0,245.0,15.0,25.6,64.0,6.0,1.55,0.0,Done,Satara,3.5,FC134,Farm C,Aqua Solutions,Irrigation,Irrigation,2026-07,2026,July,0.0,0.0
+2026-07-05,V003,AC04,C001,Lettuce,625.0,0.0,16.0,25.9,65.0,6.2,1.5,182.0,Done,Satara,5.5,FC135,Farm C,AgroCare,Pesticide,Climate Monitoring,2026-07,2026,July,29.12,11.375
+2026-07-08,V004,AC04,C001,Lettuce,382.0,180.0,11.2,24.2,72.0,6.0,1.35,0.0,Done,Satara,3.0,FC136,Farm C,FarmTech Supplies,Equipment,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-11,V003,AC03,C001,Lettuce,478.0,210.0,13.5,24.6,69.0,6.1,1.28,0.0,Done,Satara,4.0,FC137,Farm C,AgroCare,Pesticide,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-14,V002,AC03,C004,Spinach,565.0,250.0,15.0,25.5,64.0,6.0,1.55,0.0,Done,Satara,3.0,FC138,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-17,V002,AC05,C003,Cucumber,630.0,270.0,16.2,25.9,65.0,6.2,1.5,0.0,Done,Satara,3.5,FC139,Farm C,Aqua Solutions,Irrigation,Plant Health Scouting,2026-07,2026,July,0.0,0.0
+2026-07-20,V001,AC04,C001,Lettuce,390.0,0.0,11.5,24.1,73.0,6.0,1.35,120.0,Done,Satara,4.5,FC140,Farm C,GreenGrow Agro,Fertilizer,Climate Monitoring,2026-07,2026,July,30.76923076923077,10.434782608695652
+2026-07-23,V001,AC03,C001,Lettuce,470.0,205.0,13.5,24.5,69.0,6.1,1.3,0.0,Done,Satara,4.0,FC141,Farm C,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-07,2026,July,0.0,0.0
+2026-07-26,V005,AC04,C002,Tomato,570.0,255.0,15.2,25.4,64.0,6.0,1.55,0.0,Pending,Satara,3.5,FC142,Farm C,FreshCrop Agro,Seeds,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-07-29,V004,AC04,C001,Lettuce,635.0,275.0,16.5,25.8,65.0,6.2,1.5,0.0,Done,Satara,4.0,FC143,Farm C,FarmTech Supplies,Equipment,Climate Monitoring,2026-07,2026,July,0.0,0.0
+2026-08-01,V002,AC03,C004,Spinach,370.0,170.0,11.0,24.0,73.0,6.0,1.35,0.0,Done,Satara,2.5,FC144,Farm C,Aqua Solutions,Irrigation,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-04,V005,AC01,C001,Lettuce,480.0,0.0,13.5,24.7,68.0,6.1,1.3,140.0,Done,Satara,5.0,FC145,Farm C,FreshCrop Agro,Seeds,Irrigation,2026-08,2026,August,29.166666666666668,10.37037037037037
+2026-08-07,V001,AC03,C004,Spinach,575.0,250.0,15.0,25.5,64.0,6.0,1.57,0.0,Done,Satara,3.5,FC146,Farm C,GreenGrow Agro,Fertilizer,Cleaning & Sanitization,2026-08,2026,August,0.0,0.0
+2026-08-10,V003,AC02,C002,Tomato,640.0,280.0,16.5,26.0,65.0,6.2,1.5,0.0,In Progress,Satara,4.0,FC147,Farm C,AgroCare,Pesticide,Fertigation,2026-08,2026,August,0.0,0.0
+2026-08-13,V003,AC05,C002,Tomato,380.0,175.0,11.2,24.1,72.0,6.0,1.35,0.0,Done,Satara,2.5,FC148,Farm C,AgroCare,Pesticide,Plant Health Scouting,2026-08,2026,August,0.0,0.0
+2026-08-16,V003,AC04,C002,Tomato,445.0,195.0,13.0,24.5,69.0,6.1,1.28,0.0,Done,Satara,3.0,FC149,Farm C,AgroCare,Pesticide,Climate Monitoring,2026-08,2026,August,0.0,0.0
+2026-08-19,V005,AC04,C004,Spinach,580.0,0.0,15.5,25.4,64.0,6.0,1.55,160.0,Done,Satara,5.5,FC150,Farm C,FreshCrop Agro,Seeds,Climate Monitoring,2026-08,2026,August,27.586206896551722,10.32258064516129
