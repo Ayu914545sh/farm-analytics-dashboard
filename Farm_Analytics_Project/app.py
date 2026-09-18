@@ -1,3 +1,4 @@
+from pathlib import Path
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -18,31 +19,16 @@ st.set_page_config(
 # =====================================================
 # LOAD DATA
 # =====================================================
-
 @st.cache_data
 def load_data():
 
     df = pd.read_csv(
-        "data/cleaned/cleaned_farm_data.csv"
+        "Farm_Analytics_Project/data/cleaned/cleaned_farm_data.csv"
     )
 
     df["date"] = pd.to_datetime(
         df["date"],
         errors="coerce"
-    )
-
-    # Create month column
-    df["month"] = (
-        df["date"]
-        .dt.to_period("M")
-        .astype(str)
-    )
-
-    # Water efficiency
-    df["water_efficiency"] = np.where(
-        df["water_used_l"] > 0,
-        (df["yield_kg"] / df["water_used_l"]) * 100,
-        np.nan
     )
 
     return df
