@@ -350,27 +350,45 @@ st.divider()
 # WATER EFFICIENCY
 # =====================================================
 
+
+
 st.header("💧 Insight 5: Water Use Efficiency")
+
+st.write(
+    "This chart shows how many kilograms of yield are "
+    "produced for every 100 litres of water used."
+)
 
 water_data = (
     filtered_df
-    .groupby("farm_name", as_index=False)["water_efficiency"]
-    .mean()
+    .groupby("farm_name", as_index=False)
+    .agg(
+        total_yield=("yield_kg", "sum"),
+        total_water=("water_used_l", "sum")
+    )
 )
 
+water_data["water_efficiency"] = (
+    water_data["total_yield"]
+    / water_data["total_water"]
+) * 100
+
+water_data = water_data.sort_values(
+    "water_efficiency",
+    ascending=False
+)
 
 fig5 = px.bar(
     water_data,
     x="farm_name",
     y="water_efficiency",
     text="water_efficiency",
-    title="Average Yield per 100 Litres of Water",
+    title="Yield Produced per 100 Litres of Water",
     labels={
         "farm_name": "Farm",
         "water_efficiency": "Yield per 100 L Water (kg)"
     }
 )
-
 
 fig5.update_traces(
     texttemplate="<b>%{text:.2f} kg</b>",
@@ -379,7 +397,6 @@ fig5.update_traces(
     cliponaxis=False
 )
 
-
 fig5.update_layout(
     yaxis_range=[
         0,
@@ -387,12 +404,14 @@ fig5.update_layout(
     ]
 )
 
-
 st.plotly_chart(
     fig5,
     use_container_width=True
 )
 
+st.caption(
+    "Higher values indicate better water-use efficiency."
+)
 
 st.divider()
 
